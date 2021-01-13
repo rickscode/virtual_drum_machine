@@ -1,0 +1,170 @@
+body {
+  background: linear-gradient(to bottom, #7927b2, #fb3182);
+}
+
+.container{
+    text-align: center;
+    position: relative;
+    display: flex;
+  }
+
+.drum-machine {
+      position: relative;
+      margin: auto;
+      width: 700px;
+      height: 700px;
+      border-radius: 25px;
+      background-color: #FBF8F7;
+      top: 10px;
+  }
+
+.pads-container {
+  position: relative;
+  margin: auto;
+  height: 600px;
+  width: 600px;
+  top: 50px;
+  border-radius: 25px;
+  background-color: grey;
+}
+
+#drumpad1 {
+      position: relative;
+      margin: auto;
+      top: 20px;
+      right: 200px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+    }
+
+#drumpad2 {
+      position: relative;
+      margin: left;
+      top: 40px;
+      left: 10px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+  }
+
+#drumpad3 {
+      position: relative;
+      margin: left;
+      top: 60px;
+      left: 10px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+}
+
+#drumpad4 {
+      position: relative;
+      margin: auto;
+      bottom: 505px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+}
+
+#drumpad5 {
+      position: relative;
+      margin: auto;
+      bottom: 482px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+}
+
+#drumpad6 {
+      position: relative;
+      margin: auto;
+      bottom: 465px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+}
+
+#drumpad7 {
+      position: relative;
+      margin: auto;
+      bottom: 1030px;
+      left: 195px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+}
+
+#drumpad8 {
+  position: relative;
+      margin: auto;
+      bottom: 1005px;
+      left: 195px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+}
+
+#drumpad9 {
+  position: relative;
+      margin: auto;
+      bottom: 990px;
+      left: 195px;
+      border-radius: 25px;
+      width: 165px;
+      height: 165px;
+      background-color: #211f22;
+      border: 5px solid black;
+      text-align: center;
+      color: pink;
+      line-height: 150px;
+      font-size: 50px;
+}
