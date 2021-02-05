@@ -13,8 +13,8 @@ Built with:
 * JavaScript
 
 ## Features
-* Responsive sizing
-* Multiple grid layouts
+* Keyboard Control
+* 9 Sound Pads
 
 
 
